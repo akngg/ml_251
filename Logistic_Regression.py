@@ -2,6 +2,8 @@ import time
 import numpy as np
 import pandas as pd
 import os
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
 
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
@@ -15,7 +17,7 @@ from sklearn.metrics import (
 )
 
 # Đọc dữ liệu
-data = pd.read_csv("D:/HCMUT/Nam 4/CO3117 - Hoc May/ml_251/data/train.csv")
+data = pd.read_csv("data/train.csv")
 
 X = data.drop("label", axis=1).values
 y = data["label"].values
