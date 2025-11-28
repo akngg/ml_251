@@ -7,6 +7,7 @@
 - `NeuralNetwork.ipynb` : Notebook Neural Network
 - `models/` : Chứa các file mô hình đã lưu (`logistic_regression_model.joblib`, `neural_network_model.pth`)
 - `report.pdf` : Báo cáo bài tập lớn
+- `presentation.pdf` : Slide trình chiếu
 
 ## Yêu cầu môi trường
 
