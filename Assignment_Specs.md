@@ -4,8 +4,6 @@
 
 ### Võ Thanh Hùng
 
-### 9/
-
 ## 1 Giới thiệu
 
 Trong khuôn khổ môn học Machine Learning, bài tập lớn là một phần quan trọng
@@ -38,8 +36,6 @@ Mỗi nhóm sinh viên cần thực hiện các bước sau:
     và kết luận.
 7. Chuẩn bị slide thuyết trình (một số nhóm sẽ được lựa chọn để trình bày trên lớp).
 
-#### 1
-
 
 ## 3 Một số nguồn dữ liệu tham khảo
 
@@ -69,6 +65,5 @@ Sinh viên có thể tham khảo các nguồn dữ liệu sau hoặc chọn ngu�
 - Không được chia sẻ hoặc sao chép code giữa các nhóm. Mọi hình thức gian lận sẽ
     bị xử lý theo quy định học vụ.
 
-#### 2
 
 
